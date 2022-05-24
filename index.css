@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#btns {
+    text-align: center;
+    margin-top: 15px;
+}
+
+h2 {
+color:green;
+}
+
+#name-el {
+width: 30%;
+}
+
+label {
+    font-weight: bold;
+}
+
+table { 
+    text-align: center;
+    width: 100%;
+    margin-top: 15px;
+}
+
+th {
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}
+
+  button {
+     padding: 10px;
+     background-color: green; 
+     color: white;
+     font-weight: bold;
+     border: none;
+  }
